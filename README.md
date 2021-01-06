@@ -1,11 +1,7 @@
 # Ansible Role Template
-This repository will be used as a template for Ansible roles.
+[![CI](https://github.com/geerlingguy/ansible-role-template/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-template/actions?query=workflow%3ACI)
 
-Steps:
-- [ ] Clone
-- [ ] Add your [Ansible Galaxy](https://galaxy.ansible.com/) api token as a secret for [GitHub actions](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)
-- [ ] Configure Ansible Role
-- [ ] Add [workflow badge](https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository) to README file
+This repository will be used as a template for Ansible roles.
 
 Role Name
 =========
@@ -34,14 +30,14 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: servers
       roles:
-         - { role: username.rolename, x: 42 }
+         - role: gonzalezandrew.role-name
 
 License
 -------
 
-BSD
+MIT
 
 Author Information
 ------------------
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+This role was by [Andrew Gonzalez](https://gonzalezandrew.com).
