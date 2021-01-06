@@ -1,5 +1,5 @@
 # Ansible Role Template
-[![CI](https://github.com/geerlingguy/ansible-role-template/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-template/actions?query=workflow%3ACI)
+[![CI](https://github.com/GonzalezAndrew/ansible-role-template/workflows/CI/badge.svg?event=push)](https://github.com/GonzalezAndrew/ansible-role-template/actions?query=workflow%3ACI)
 
 This repository will be used as a template for Ansible roles.
 
