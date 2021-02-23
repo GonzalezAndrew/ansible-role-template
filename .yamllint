@@ -6,3 +6,9 @@ rules:
     max: 180
     level: warning
   truthy: disable
+
+ignore: |
+  .github/
+  /.github/
+  ansible-role-name/.github/
+  /ansible-role-name/.github/
